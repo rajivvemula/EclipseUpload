@@ -8,4 +8,10 @@ public class SelDemo {
 	{
 		System.out.println("This is Demp of Maven");
 	}
+	
+	@Test
+	public void PrintSel1()
+	{
+		System.out.println("This is Demp11 of Maven");
+	}
 }
